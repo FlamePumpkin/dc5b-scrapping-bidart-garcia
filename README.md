@@ -1,1 +1,1 @@
-exercice scrapping python Bidart Guilhem et Garcia Justinegit
+exercice scrapping python Bidart Guilhem et Garcia Justine
